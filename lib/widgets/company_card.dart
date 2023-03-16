@@ -10,7 +10,7 @@ class CompanyCard extends StatelessWidget {
     return Container(
       width: 280.0,
       margin: EdgeInsets.only(right: 15.0),
-      padding: EdgeInsets.all(15.0),
+      padding: const EdgeInsets.all(15.0),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(12.0),
         color: kBlack,

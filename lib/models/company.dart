@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class Company {
   final String? companyName;
   final String? job;
